@@ -159,7 +159,7 @@ This work was conducted at:
 
 **Akshara Soman**  
 MSc Automotive Embedded Systems — ESIGELEC  
-
+LinkedIn : www.linkedin.com/in/akshara-soman
 
 ---
 
