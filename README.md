@@ -20,8 +20,6 @@
 
 ## 🎬 Live Demo
 
-> **Drop your demo GIF here!**
-
 ![Demo](picam_demo.gif)
 
 
