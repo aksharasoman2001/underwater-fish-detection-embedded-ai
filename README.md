@@ -46,19 +46,6 @@ The system was built during a 6-month MSc internship at **Lab-STICC** (CNRS UMR 
 
 > ✅ **Best real-time option: YOLOv11n INT8 TFLite — 3.26 FPS at only 2.63 MB with mAP@0.5 = 0.980**
 
----
-
-## 🖼️ Detection Samples
-
-Sample bounding box outputs from live PiCam testing on Raspberry Pi 5:
-
-> *(Add your detection screenshots here — drag images into `results/detection_samples/`)*
-
-| Clear water | Low light | Turbid water |
-|---|---|---|
-| `[add image]` | `[add image]` | `[add image]` |
-
----
 
 ## 🧠 Methodology
 
