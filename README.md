@@ -24,7 +24,7 @@
 > See [How to add your demo](#-how-to-add-your-demo-video) at the bottom of this file.
 
 ```
-[ YOUR DEMO GIF GOES HERE ]
+![Demo](picam_demo.gif)
 ```
 
 ---
