@@ -21,11 +21,9 @@
 ## 🎬 Live Demo
 
 > **Drop your demo GIF here!**
-> See [How to add your demo](#-how-to-add-your-demo-video) at the bottom of this file.
 
-```
 ![Demo](picam_demo.gif)
-```
+
 
 ---
 
