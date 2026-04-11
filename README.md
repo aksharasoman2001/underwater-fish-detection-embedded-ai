@@ -12,7 +12,7 @@
 [![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-4GB-red?style=flat-square&logo=raspberry-pi&logoColor=white)](https://raspberrypi.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
 
-[📄 Internship Report](docs/internship_report.pdf) · [📊 Presentation Slides](docs/internship_presentation.pptx) · [🔗 LinkedIn](https://www.linkedin.com/in/akshara-soman)
+[📄 Internship Report](docs/Final Internship REport.pdf) · [📊 Presentation Slides](docs/internship_slides.pdf) · [🔗 LinkedIn](https://www.linkedin.com/in/akshara-soman)
 
 </div>
 
